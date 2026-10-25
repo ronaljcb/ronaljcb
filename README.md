@@ -1,38 +1,42 @@
-# Ronal Condor Blas
+<div align="center">
+  <h1>Hola, soy Ronal 👋</h1>
+  <p><strong>Full Stack Development · Software · UI Design</strong></p>
+</div>
 
-**Desarrollador Full Stack · React, TypeScript y Java / Spring Boot**  
-Estudiante de Sistemas de Información en **UTEC** · Egreso previsto: **2028**
+<table>
+  <tr>
+    <td width="64%" valign="middle">
+      <h2>Sobre mí</h2>
+      <p>Estudio <strong>Sistemas de Información en UTEC</strong> y me gusta convertir ideas en aplicaciones que las personas puedan usar.</p>
+      <p>Trabajo con <strong>React, TypeScript y Spring Boot</strong>, conectando interfaces, APIs y datos. Disfruto tanto resolver la lógica como cuidar los detalles de una interfaz.</p>
+      <p>Aprendiendo, construyendo y compartiendo el camino.</p>
+      <br>
+      <a href="https://www.linkedin.com/in/ronal-jesus-condor-blas-9ab309346/"><strong>LinkedIn ↗</strong></a>
+    </td>
+    <td width="36%" align="center">
+      <img src="./assets/coast.svg" width="270" alt="Ilustración de una ciudad y un camino junto a la costa del Pacífico" />
+    </td>
+  </tr>
+</table>
 
-Desarrollo aplicaciones web y participo en la construcción de interfaces, APIs REST, autenticación y pruebas. Me interesa conectar las necesidades de las personas con soluciones que se puedan entender, usar y mantener.
+<h2 align="center">Tecnologías y herramientas</h2>
+<p align="center">Lo que uso para diseñar, construir y seguir aprendiendo.</p>
 
-Mi experiencia se ha construido en proyectos académicos colaborativos. Aquí puedes explorar sus demos y revisar mi participación en los repositorios originales.
+<p align="center"><strong>Web &amp; UI</strong></p>
+<p align="center"><img src="./assets/web.svg" width="480" alt="Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS y Figma" /></p>
 
-## Proyectos destacados
+<p align="center"><strong>Backend &amp; fundamentos</strong></p>
+<p align="center"><img src="./assets/backend.svg" width="360" alt="Java, Spring Boot, PostgreSQL, Python, C++ y C" /></p>
 
-| Proyecto | Mi participación | Explorar |
-| :--- | :--- | :--- |
-| **FoodTales** · Comunidad gastronómica | Desarrollo frontend con React y TypeScript; aportes al backend Spring Boot, entidades, autenticación y pruebas. | **[Demo](https://foodtales-hazel.vercel.app)** · [Repositorio](https://github.com/ronaljcb/foodtales) · [Mis contribuciones](https://github.com/ronaljcb/foodtales/blob/main/docs/CONTRIBUTIONS.md) |
-| **SaludCare** · Gestión médica | Desarrollo de interfaces con Next.js para pacientes, médicos, resúmenes e historial de exámenes, dentro de un proyecto de microservicios. | **[Demo](https://saludcare-three.vercel.app)** · [Repositorio](https://github.com/ronaljcb/saludcare) · [Mis contribuciones](https://github.com/ronaljcb/saludcare/blob/main/docs/CONTRIBUTIONS.md) |
-| **EduCloud** · Plataforma educativa | Desarrollo frontend e integración con APIs para catálogo, búsqueda y gestión de cursos. | **[Demo](https://educloud-blush.vercel.app)** · [Repositorio](https://github.com/ronaljcb/educloud) · [Mis contribuciones](https://github.com/ronaljcb/educloud/blob/main/docs/CONTRIBUTIONS.md) |
-| **Pac-Man POSIX** · Sistemas computacionales | Proyecto en C para explorar concurrencia, procesos, hilos, memoria compartida y sincronización. | [Código y documentación](https://github.com/ronaljcb/pacman-posix) |
+<p align="center"><strong>Herramientas</strong></p>
+<p align="center"><img src="./assets/tools.svg" width="240" alt="Git, GitHub, Postman y Vercel" /></p>
 
-## Tecnologías
+<br>
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS  
-**Backend:** Java · Spring Boot · APIs REST  
-**Datos y herramientas:** SQL · PostgreSQL · Git / GitHub · Figma  
-**Otros conocimientos:** Python · C / C++ · React Native
+<p align="center"><strong>Mis proyectos y su historial están en los repositorios fijados ↓</strong></p>
 
-## Historial y trabajo en equipo
-
-Los proyectos destacados conservan los créditos de sus equipos. Sus ediciones de portafolio reúnen código y documentación para facilitar la revisión; el historial académico original se puede consultar por separado:
-
-- **FoodTales:** [mis commits en el backend](https://github.com/CS2031-DBP/proyecto-backend-foodtales/commits/main/?author=ronaljcb) · [ramas del equipo](https://github.com/CS2031-DBP/proyecto-backend-foodtales/branches). El frontend original está en un repositorio privado de la organización académica.
-- **SaludCare:** [mis commits en el proyecto original](https://github.com/DarKNeSsJuaN25/proyecto/commits/master/?author=ronaljcb).
-- **EduCloud:** [mi historial en el frontend original](https://github.com/ronaljcb/frontend-fi/commits/main/?author=ronaljcb).
-
-> Las demos de FoodTales, SaludCare y EduCloud usan datos ficticios y guardan los cambios en el navegador. Permiten recorrer las interfaces sin la infraestructura antigua de AWS; los backends originales disponibles están conservados en los repositorios y no se ejecutan en estas demos.
-
-## Conectar
-
-[LinkedIn](https://www.linkedin.com/in/ronal-jesus-condor-blas-9ab309346/) · [Proyectos en GitHub](https://github.com/ronaljcb?tab=repositories)
+<details>
+  <summary>Ver las demos interactivas</summary>
+  <p><a href="https://foodtales-hazel.vercel.app">FoodTales ↗</a> · <a href="https://saludcare-three.vercel.app">SaludCare ↗</a> · <a href="https://educloud-blush.vercel.app">EduCloud ↗</a></p>
+  <p>Estas demos usan datos ficticios y guardan los cambios en el navegador. El historial del trabajo académico está en los repositorios originales fijados.</p>
+</details>

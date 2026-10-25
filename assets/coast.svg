@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440" role="img" aria-labelledby="title desc">
+<title id="title">Costa, ciudad y nuevas ideas</title><desc id="desc">Ilustración de una ciudad junto al Pacífico, con un sol cálido y un camino hacia el horizonte.</desc>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#14283f"/><stop offset=".65" stop-color="#527886"/><stop offset="1" stop-color="#dba98e"/></linearGradient><linearGradient id="sea" x2="0" y2="1"><stop stop-color="#3e7180"/><stop offset="1" stop-color="#162f44"/></linearGradient><linearGradient id="land" x2="0" y2="1"><stop stop-color="#344f4a"/><stop offset="1" stop-color="#152c32"/></linearGradient><clipPath id="edge"><rect width="360" height="440" rx="12"/></clipPath></defs>
+<g clip-path="url(#edge)"><path fill="url(#sky)" d="M0 0h360v440H0z"/><circle cx="254" cy="161" r="44" fill="#f1bc8e"/><circle cx="254" cy="161" r="63" fill="#efb48a" opacity=".08"/>
+<g fill="none" stroke="#a7c2c6" opacity=".28" stroke-width="2"><path d="M-20 73q82-26 154 0t150-5 100-8"/><path d="M19 98q47-17 91-3t91 1"/><path d="M205 49q49 13 115-3"/></g>
+<path d="M0 223h360v217H0z" fill="url(#sea)"/><g stroke="#9ebabe" opacity=".2"><path d="M0 241h215M48 257h236M0 278h175M18 307h127M0 334h90"/></g>
+<path d="M360 207c-67 18-81 64-144 91S81 345 80 440h280Z" fill="url(#land)"/>
+<path d="M360 229c-60 5-65 66-137 88S119 378 136 440" fill="none" stroke="#d6bba0" stroke-width="10"/>
+<path d="M360 229c-60 5-65 66-137 88S119 378 136 440" fill="none" stroke="#f0dcc0" stroke-width="1.5" opacity=".8"/>
+<g stroke="#253c4a" stroke-width="1.5"><path d="M180 235v-31h24v31" fill="#7899a2"/><path d="M204 243v-70h29v70" fill="#b6b7aa"/><path d="M233 241v-47h21v47" fill="#79909a"/><path d="M254 241v-91h31v91" fill="#9faea9"/><path d="M285 234v-61h25v61" fill="#66828f"/><path d="M311 227v-43h30v43" fill="#9daaa3"/><path d="M342 224v-74h30v74" fill="#6d8792"/></g>
+<g stroke="#e4d0ac" stroke-width="2" opacity=".55"><path d="M211 184h15m-15 10h15m-15 10h15m-15 10h15m-15 10h15M262 162h15m-15 11h15m-15 11h15m-15 11h15m-15 11h15m-15 11h15M293 184h10m-10 12h10m-10 12h10m-10 12h10"/></g>
+<g fill="#608070"><circle cx="255" cy="286" r="12"/><circle cx="281" cy="270" r="9"/><circle cx="303" cy="256" r="10"/><circle cx="326" cy="245" r="8"/><circle cx="197" cy="339" r="12"/><circle cx="178" cy="361" r="9"/><circle cx="243" cy="348" r="14"/><circle cx="302" cy="329" r="19"/><circle cx="327" cy="376" r="25"/><circle cx="226" cy="415" r="22"/></g>
+<g fill="#b9c9bd" opacity=".3"><circle cx="254" cy="284" r="5"/><circle cx="301" cy="325" r="8"/><circle cx="240" cy="346" r="5"/></g>
+<path d="M0 422h360v18H0z" fill="#142532" opacity=".4"/></g></svg>
