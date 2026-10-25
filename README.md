@@ -3,19 +3,12 @@
   <p><strong>Full Stack Development · Software · UI Design</strong></p>
 </div>
 
-<table>
-  <tr>
-    <td width="64%" valign="top" align="left">
-      <h2>About me</h2>
-      <p>I'm an <strong>Information Systems student at UTEC</strong>. I enjoy turning ideas into useful digital experiences.</p>
-      <p>I build with <strong>React, TypeScript and Spring Boot</strong>, connecting interfaces, APIs and data. I enjoy solving problems and paying attention to the details that make an interface feel right.</p>
-      <p>Always learning, building and exploring new ideas.</p>
-    </td>
-    <td width="36%" align="center">
-      <img src="./assets/coast.svg" width="270" alt="An illustration of a city and a winding path along the Pacific coast" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>About me</h2>
+  <p>I'm an <strong>Information Systems student at UTEC</strong>. I enjoy turning ideas into useful digital experiences.</p>
+  <p>I build with <strong>React, TypeScript and Spring Boot</strong>, connecting interfaces, APIs and data. I enjoy solving problems and paying attention to the details that make an interface feel right.</p>
+  <p>Always learning, building and exploring new ideas.</p>
+</div>
 
 <h2 align="center">Tech &amp; Creative Toolkit</h2>
 <p align="center">Technologies and tools I build with and keep exploring.</p>
@@ -27,4 +20,4 @@
 <p align="center"><img src="./assets/backend.svg" width="420" alt="Java, Spring Boot, FastAPI, PostgreSQL, Python, C++ and C" /></p>
 
 <p align="center"><strong>Tools &amp; Workflow</strong></p>
-<p align="center"><img src="./assets/tools.svg" width="480" alt="Git, GitHub, Docker, AWS, Postman, VS Code, IntelliJ IDEA, Android Studio, Linux, Bash, npm and Node.js" /></p>
+<p align="center"><img src="./assets/tools.svg" width="480" alt="Git, GitHub, Docker, AWS, Postman, VS Code, IntelliJ IDEA, Android Studio, Linux, Bash and Node.js" /></p>
